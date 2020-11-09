@@ -1,0 +1,2 @@
+# FacultyAI
+FacultyAi hackathon repo
